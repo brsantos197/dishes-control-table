@@ -1,0 +1,11 @@
+{
+  "components": {
+    "path": "src/components/"
+  },
+  "pages": {
+    "path": "src/app/"
+  },
+  "hooks": {
+    "path": "src/hooks/"
+  }
+}
