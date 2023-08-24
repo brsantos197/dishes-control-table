@@ -26,7 +26,6 @@ export const TableDishes = ({}: TableDishesProps) => {
           <tr>
             <th>Prato</th>
             <th>Mesas</th>
-            <th>Garçom</th>
             <th>Horário</th>
           </tr>
         </thead>
@@ -44,7 +43,6 @@ export const TableDishes = ({}: TableDishesProps) => {
                   ))}
                 </div>
               </td>
-              <td></td>
               <td></td>
             </tr>
           ))}
