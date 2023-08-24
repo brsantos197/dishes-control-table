@@ -17,7 +17,7 @@ export const TableDishes = ({}: TableDishesProps) => {
 
   return (
     <>
-      <Button className='mb-2 ml-auto' onClick={printTable}>
+      <Button className='mb-2' onClick={printTable}>
         <BsPrinter />
         Imprimir
       </Button>
